@@ -1,6 +1,3 @@
 <?php
-
-
-
-	echo "aaaa";
+	echo "START NOW";
 ?>
